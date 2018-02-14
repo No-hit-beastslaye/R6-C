@@ -1,2 +1,3 @@
 # R6-C
-Eindweek project 2 GD
+
+Dit project is gemaakt door Filipe Guerra da Silva en Brandon Ruigrok uit klas MG1D voor de 2de eindweek.
