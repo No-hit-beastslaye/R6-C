@@ -88,7 +88,7 @@ public class Main extends Application
     hud.setLayoutY(50);
     hud.setFont(Font.font("sans-serif", FontWeight.BOLD, FontPosture.REGULAR, 20));
 
-    Image model = new Image();
+    //Image model = new Image();
 
     root2.getChildren().addAll(hud);
   }
