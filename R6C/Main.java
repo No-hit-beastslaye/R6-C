@@ -58,7 +58,7 @@ public class Main extends Application
     intro.setY(175);
 
     //Audio this was big GAY to make it run good........
-    String path = "audio/BackgroundMusic.wav";
+    String path = "audio/BgM.mp3";
     Media BackgroundMusic = new Media(new File(path).toURI().toString());
     MediaPlayer audio = new MediaPlayer(BackgroundMusic);
     audio.setAutoPlay(true);
